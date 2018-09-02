@@ -1,0 +1,32 @@
+* {
+    font-family: 'Kosugi', sans-serif;
+}
+
+.jumbotron {
+    background-size: cover; 
+    height: 100vh; 
+    text-align: center; 
+    padding: 350px; 
+    background-image: url('https://peters365photos.files.wordpress.com/2013/11/p011344-fishing.jpg');
+    color: white;
+}
+
+
+.display-4{
+    margin-bottom: 30px; 
+}
+
+
+.clear {
+    margin: 0 auto;
+    width: 40%;
+    padding: 10px;
+}
+
+.btn-lg {
+    font-size: 200%; 
+    background-color: #085f4b;
+    color: #FFF; 
+    padding: 15px; 
+    align-content: center;
+}
